@@ -111,7 +111,7 @@ var VoiceRSS = {
 
 function jokeToSpeech(joke) {
   VoiceRSS.speech({
-    key: "",
+    key: "03c126ae362147f890fbfc2d6e5dfc2b",
     src: joke,
     hl: "en-us",
     r: 0,
